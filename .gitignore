@@ -1,0 +1,6 @@
+
+cloud-computing/mp1_assignment/Application
+
+*.o
+
+*.log
